@@ -1,0 +1,155 @@
+.pahanj{
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.pics{
+    border: 3px solid white;
+    width: 360px;
+    height: 45%;
+    border-radius: 23px;
+}
+
+.button3{
+    text-align: center;
+    justify-content: center;
+    transition-duration: 0.4s;
+    color: #000000;
+    border-radius: 8px;
+    padding: 12px 28px;
+    font-size: 16px;
+    background-color: white; 
+    border: 2px solid hsl(0, 96%, 28%);
+    margin: 3px;
+}
+
+.button3:hover {
+    background-color:hsl(0, 96%, 28%);
+    color: white;
+}
+
+.button3:focus{
+    background-color: hsl(0, 96%, 28%);
+    color: white;
+}
+
+
+.button13{
+    text-align: center;
+    justify-content: center;
+    transition-duration: 0.4s;
+    color: #000000;
+    border-radius: 8px;
+    padding: 12px 28px;
+    font-size: 16px;
+    background-color: white; 
+    border: 2px solid hsl(0, 96%, 28%);
+    display: inline;
+}
+
+.button13:hover {
+    background-color:hsl(0, 96%, 28%);
+    color: white;
+}
+
+
+
+.button1{
+    text-align: center;
+    justify-content: center;
+    transition-duration: 0.4s;
+    color: #000000;
+    border-radius: 8px;
+    padding: 12px 28px;
+    font-size: 16px;
+    background-color: white; 
+    border: 2px solid hsl(0, 96%, 28%);
+    margin: 3px;
+}
+
+.button1:hover {
+    background-color:hsl(0, 96%, 28%);
+    color: white;
+}
+
+.button1:focus{
+    background-color: hsl(0, 96%, 28%);
+    color: white;
+}
+
+
+.button2{
+    text-align: center;
+    justify-content: center;
+    transition-duration: 0.4s;
+    color: #000000;
+    border-radius: 8px;
+    padding: 12px 28px;
+    font-size: 16px;
+    background-color: white; 
+    border: 2px solid hsl(0, 96%, 28%);
+    margin: 3px;
+}
+
+.button2:hover {
+    background-color:hsl(0, 96%, 28%);
+    color: white;
+}
+
+.button2:focus{
+    background-color: hsl(0, 96%, 28%);
+    color: white;
+}
+
+
+.div_s{
+    margin: 5px;
+}
+
+.container{
+    height: 300px;
+    width: 100%;
+    background-color: lightgreen;
+    color: white;
+    text-align: end;
+}
+
+.startBtnOnPage1{
+    size: 16px;
+    border: 2px solid green;
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 8px;
+    padding: 12px 28px;
+}
+
+.startBtnOnPage1:active{
+    background-color: green;
+    color: white;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 13px,0px;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: green;
+    color: white;
+    justify-content: center;
+    align-content: flex-end;
+    display:flex; 
+    width: 100%;
+    height: 30px;
+    margin: 0px;
+}
+
+#dv {
+    display: none;
+}
